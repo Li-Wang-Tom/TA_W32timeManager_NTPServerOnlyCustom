@@ -57,7 +57,7 @@ L2機器 (制御装置等)
 
 ## 🖼️ アプリケーション画面
 
-![アプリケーション画面](https://claude.ai/chat/docs/screenshot.png)
+![スクリーンショット](docs/screenshot.png)
 
 ## 🛠️ 開発者向け情報
 
