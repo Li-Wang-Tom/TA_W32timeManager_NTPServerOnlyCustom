@@ -72,7 +72,7 @@ cd TA_W32TimeManager_NTPServerOnlyCustom
 ## 📝 ライセンス
 
 このプロジェクトはMITライセンスの下で公開されています。  
-詳細は [LICENSE](https://claude.ai/chat/LICENSE) ファイルをご確認ください。
+詳細は [LICENSE](LICENSE) ファイルをご確認ください。
 
 ## 👨‍💻 作者
 
